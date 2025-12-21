@@ -1,4 +1,5 @@
 # Genkit Go : article *Programmez!*
+- *Genkit Go : orchestrer des services IA en langage Go avec Google AI*, 2025, *Programmez!* hors-série n°21, pp. 56-58 ([lien](https://www.programmez.com/magazine/article/genkit-go-orchestrer-des-services-ia-en-langage-go-avec-google-ai))
 
 Petit exemple de flows Genkit Go avec le plugin Google AI (Gemini) :
 - `qaFlow` : question → réponse ;
