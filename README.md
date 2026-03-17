@@ -1,5 +1,7 @@
 #### *Genkit Go : orchestrer des services IA en langage Go avec Google AI*, 2025, *Programmez!* hors-série n°21, pp. 56-58.
 
+---
+
 ##### Exemple
 Usage Genkit Go avec le plugin Google AI (Gemini) :
 - `qaFlow` : question → réponse ;
